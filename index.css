@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+
+
+/* Navigation Bar */
+
+
+/* Yesterday Results Card */
+
+.yesterday-card {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Today Card */
